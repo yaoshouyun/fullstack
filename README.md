@@ -1,11 +1,11 @@
 # fullstack
 
-使用不同技术开发app
+# 使用不同技术开发app
 
-类型一
-1、android native
-2、android hybrid
-3、kotlin
+##  类型一
+###   1、android native
+# 2、android hybrid
+# 3、kotlin
 
 类型二
 1、flutter
